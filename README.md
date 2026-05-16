@@ -1,5 +1,5 @@
 # Financial-Transaction-Fraud-Detection-Data-Lake
-04/27/2026 - 05/20/2026
+04/27/2026 - 05/25/2026
 Developed a scalable data pipeline that ingests raw financial transaction data into a data lake, performs feature engineering for fraud detection, and generates predictions using machine learning models. 
 
 Pipeline Architecture
