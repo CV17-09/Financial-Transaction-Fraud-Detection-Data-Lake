@@ -259,9 +259,6 @@ These metrics help measure the model's ability to identify fraudulent activity w
 Financial fraud causes billions of dollars in losses every year. Detecting fraudulent activity quickly and accurately is critical for financial institutions, payment processors, and online platforms.
 
 This project demonstrates how data engineering and machine learning can be combined to build scalable fraud detection systems capable of processing large volumes of transaction data and identifying suspicious behavior efficiently.
-
-The project showcases practical skills in data pipelines, databases, machine learning, and analytics that are commonly used in modern Data Engineering, Machine Learning Engineering, and AI Engineering roles.
-
 ---
 
 ## License
