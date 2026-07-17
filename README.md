@@ -338,16 +338,6 @@ This project demonstrates how **Data Engineering** and **Machine Learning** work
 
 This project is licensed under the **MIT License**.
 
----
-
-# 👩‍💻 Author
-
-## Claudia Dominguez
-
-**Data Engineer • AI Engineer • Machine Learning Engineer**
-
-Passionate about building scalable data pipelines, intelligent machine learning systems, and AI-powered solutions that transform complex data into actionable insights.
-
 
 
 
