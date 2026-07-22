@@ -15,7 +15,7 @@ The pipeline ingests raw transaction data, stores it using a **data lake archite
 
 # 📖 Overview
 
-Financial fraud costs businesses **billions of dollars every year**. Banks, payment processors, and fintech companies rely on scalable data pipelines and machine learning systems to detect suspicious activity before financial losses occur.
+Under review - Financial fraud costs businesses **billions of dollars every year**. Banks, payment processors, and fintech companies rely on scalable data pipelines and machine learning systems to detect suspicious activity before financial losses occur.
 
 This project demonstrates an industry-inspired workflow by combining:
 
